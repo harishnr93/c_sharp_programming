@@ -1,4 +1,4 @@
-# C# Programming
+# Smart Bank System Demo using C#
 ---
 
 ## VS Code Setup for C# Development
